@@ -25,7 +25,7 @@ A custom HID keyboard integration project featuring an embedded **capacitive tou
 ### 2. Core Components
 | Part | Description | Usage / Purpose |
 | :--- | :--- | :--- |
-| **Arduino Leonardo ETH** | ATmega32u4 MCU | Acts as the main HID Keyboard/Mouse controller. |
+| **Arduino Leonardo ETH** | ATmega32u4 MCU | Acts as the main HID controller. |
 | **Adafruit CH334F** | 2-Port USB Hub | Merges the stock keyboard matrix and Arduino into one cable. |
 | **MPR121** | 12-Ch Capacitive Sensor | Drives the custom touch sliders via I2C. |
 | **Pololu Magnetic Encoder** | Side-entry pair kit | Detects wheel rotation via the press-fitted magnetic disc. |
