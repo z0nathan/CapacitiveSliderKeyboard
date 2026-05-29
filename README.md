@@ -20,8 +20,12 @@ Including custom FPCB & control code.
 
 ## Hardware
 
+
 Custom hausing was 3D printed on Bambulab P1S. Due to limitation with build plate size, It designed as three components. 
-Upper plate was designed and laser cutted. 
+Upper part was laser cutted 2T acrylic plate. 
+
+<img width="4284" height="5712" alt="KakaoTalk_20260530_000324815" src="https://github.com/user-attachments/assets/15f3f3a7-09c0-46bd-9a4a-6d534472f29d" />
+<img width="4284" height="5712" alt="KakaoTalk_20260530_000324815_01" src="https://github.com/user-attachments/assets/acb821fd-5371-4143-8f4a-f6f58bc55164" />
 
 Control panel, which includes button, wheel, and thumbstick, was designed as two parts. The wheel was assembled with two bearing and 3Pi-10mm shaft. 
 As the magnetic encoder's disc was press-fitted on wheel itself. 
@@ -35,6 +39,7 @@ As the magnetic encoder's disc was press-fitted on wheel itself.
 | Rotary Encoder | Scroll input |
 | Joystick | Arrow keys or mouse pointer |
 | LED | Mode feedback |
+
 
 
 
