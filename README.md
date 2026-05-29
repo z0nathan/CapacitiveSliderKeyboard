@@ -72,16 +72,10 @@ A custom HID keyboard integration project featuring an embedded **capacitive tou
   <img width="908" height="382" alt="Screenshot 2026-05-30 003905" src="https://github.com/user-attachments/assets/d90b4d0d-9b02-484d-9d02-96bf17f346a3" />
 </p>
 
-<table width="100%" border="0">
-  <tr>
-    <td align="left" width="50%">
-      <img width="681" height="641" alt="FPCB" src="https://github.com/user-attachments/assets/df7d771c-3db0-4520-ba51-e0cf7140d80a" width="50%" //>
-    </td>
-    <td align="right" width="50%">
-      <img width="346" height="210" alt="111" src="https://github.com/user-attachments/assets/bd9012d6-b783-44f7-8bdb-57d2ebd278c6" width="95%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+ <img width="714" height="373" alt="111" src="https://github.com/user-attachments/assets/3bd66b3f-faa8-4d81-bb76-4cb35f7a3e7b" />
+ <img width="681" height="641" alt="FPCB" src="https://github.com/user-attachments/assets/574a6966-2d3a-47fd-8103-04bfc3b18291" />
+</p>
 
 <img width="5712" height="4284" alt="KakaoTalk_20260530_000324815_05" src="https://github.com/user-attachments/assets/a6d177b1-313c-46d3-8c52-12d82c22921a" />
 
