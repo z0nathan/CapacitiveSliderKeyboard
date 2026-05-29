@@ -19,7 +19,7 @@ A custom HID keyboard integration project featuring an embedded **capacitive tou
 
 ### 1. Housing & Mechanical Design
 * **Enclosure:** The custom housing was 3D printed using a **Bambu Lab P1S**. Due to the build plate size limitations, it was split into a **3-piece modular design**.
-* **Top Plate:** A laser-cut **2T acrylic plate** provides a clean, premium finish.
+* **Top Plate:** A laser-cut **2T acrylic plate**.
 * **Scroll Wheel Mechanics:** Built using two precision bearings and a $\Phi3\text{mm}$-10mm shaft to ensure zero-play, smooth rotation. The magnetic disc is press-fitted directly onto the custom wheel.
 
 ### 2. Core Components
@@ -67,6 +67,14 @@ A custom HID keyboard integration project featuring an embedded **capacitive tou
 ---
 
 ## 📸 Gallery
+<p align="center">
+  <img width="922" height="388" alt="Screenshot 2026-05-30 003803" src="https://github.com/user-attachments/assets/4eda720f-edae-4137-a11d-84196f1a5ed8" />
+  <img width="908" height="382" alt="Screenshot 2026-05-30 003905" src="https://github.com/user-attachments/assets/d90b4d0d-9b02-484d-9d02-96bf17f346a3" />
+</p>
+
+
+<img width="5712" height="4284" alt="KakaoTalk_20260530_000324815_05" src="https://github.com/user-attachments/assets/a6d177b1-313c-46d3-8c52-12d82c22921a" />
+
 
 <p align="center">
   <img width="48%" alt="CapacitiveSliderKeyboard Top View" src="https://github.com/user-attachments/assets/15f3f3a7-09c0-46bd-9a4a-6d534472f29d" />
