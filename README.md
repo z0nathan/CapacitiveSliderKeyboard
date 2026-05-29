@@ -5,7 +5,7 @@
 # Overview
 
 This project is about integrating capacitive touch control slider with keyboard. 
-Includes custom FPCB & control code. 
+Including custom FPCB & control code. 
 
 
 ## Features
@@ -20,6 +20,11 @@ Includes custom FPCB & control code.
 
 ## Hardware
 
+Custom hausing was 3D printed on Bambulab P1S. Due to limitation with build plate size, It designed as three components. 
+Upper plate was designed and laser cutted. 
+
+Control panel, which includes button, wheel, and thumbstick, was designed as two parts. The wheel was assembled with two bearing and 3Pi-10mm shaft. 
+As the magnetic encoder's disc was press-fitted on wheel itself. 
 
 
 
@@ -30,6 +35,11 @@ Includes custom FPCB & control code.
 | Rotary Encoder | Scroll input |
 | Joystick | Arrow keys or mouse pointer |
 | LED | Mode feedback |
+
+
+
+
+
 
 ## Pin Map
 
