@@ -61,7 +61,8 @@ A custom HID keyboard integration project featuring an embedded **capacitive tou
 ## 📂 Code & Design Availability
 
 * **What's Included:** Control firmware code and custom slider FPCB design files.
-* **What's Omitted:** The main keyboard enclosure and control panel PCB designs. The panel schematic includes modified layouts of commercial parts, and the housing geometry is tied to the Lenovo GK10 substrate design. 
+* **What's Omitted:** The main keyboard enclosure and control panel PCB designs. The panel schematic includes modified layouts of commercial parts, and the housing geometry is tied to the Lenovo GK10 substrate design.
+* The mechanical design is not publicly available, and I don't currently plan to release it. While it worked for this build, I don't consider the design robust or assembly-friendly enough to recommend for reproduction.
 * *If you need these source files for personal reference or derivative builds, please feel free to reach out.*
 
 ---
