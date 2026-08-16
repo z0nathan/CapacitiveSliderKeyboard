@@ -1,6 +1,9 @@
 # ⌨️ CapacitiveSliderKeyboard
 > **2026 Hardware Side Project**
 
+<img width="4284" height="5712" alt="KakaoTalk_20260817_001153105_01" src="https://github.com/user-attachments/assets/f2cf0851-964a-4f11-9510-5748511818d1" />
+
+
 A custom HID keyboard integration project featuring an embedded **capacitive touch slider**, a **magnetic encoder**, an **analog joystick**, and an **integrated USB hub** built on top of a modified Lenovo GK10 (98-key) substrate. This repository includes the custom FPCB designs and control firmware.
 
 ---
